@@ -1,7 +1,7 @@
 # Google Maps DSGVO Consent
 
 A lightweight **GDPR/DSGVO-compliant** solution for embedding **Google Maps**.  
-The map is only loaded after the user explicitly clicks **"Karte anzeigen"**, ensuring no data is sent to Google until consent is given.
+The map is only loaded after the user explicitly clicks **"Shop map"**, ensuring no data is sent to Google until consent is given.
 
 ---
 
