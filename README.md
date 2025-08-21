@@ -14,10 +14,12 @@ The map is only loaded after the user explicitly clicks **"Shop map"**, ensuring
 
 ---
 
-## 📸 Preview
+## 📸 Image Preview
 
 ![Preview](https://github.com/elias1435/google-maps-dsgvo-consent/blob/main/google-map-iframe.jpg?raw=true)
 
+
+## Google Map iframe
 ![Preview](https://github.com/elias1435/google-maps-dsgvo-consent/blob/main/google-map-iframe.jpg?raw=true)
 
 ---
